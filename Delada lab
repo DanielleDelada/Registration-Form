@@ -1,0 +1,19 @@
+
+package labratory.pkg06;
+
+public class Labratory06 {
+
+    public static void main(String[] args) {
+        int iNumbah = 30;
+        if (iNumbah >= 10){
+            if (iNumbah == 5){
+                System.out.println("First String: ");
+            }
+            else{
+                System.out.println("Second String: ");
+            }
+    }
+    System.out.println("Third String: ");
+    
+}
+}
